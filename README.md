@@ -1,4 +1,5 @@
 # Streaming-data-with-Kafka
+Download and install Kafka and start streaming data using Kafka
 
 Objectives:
 - Download and install Kafka
