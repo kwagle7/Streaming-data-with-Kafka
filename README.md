@@ -19,6 +19,8 @@ Objectives:
 </pre>
 
 # Start Zookeper
+<img width="600" alt="image" src="https://github.com/kwagle7/Streaming-data-with-Kafka/assets/13037108/5da90402-7275-4314-b86e-e74fea9c89ea">
+
 Zookeeper is required for Kafka to work. Start the Zookeeper server.
 ZooKeeper is responsible for the overall management of Kafka cluster.
 It monitors the Kafka brokers and notifies Kafka if any broker or partition goes down, or if a new broker or partition goes up.
